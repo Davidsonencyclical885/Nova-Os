@@ -1,0 +1,26 @@
+"""
+Nova OS
+Author: Tanju Aksit
+Copyright (c) 2026 Tanju Aksit
+
+This source code is licensed under the Nova OS Author Credit License.
+"""
+
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime data
+runtime/
+
+# Private configs
+config/private/
+
+# OS
+.DS_Store
+Thumbs.db
